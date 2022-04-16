@@ -105,7 +105,7 @@
     "preact-render-to-string": "^5.1.10",
     "quick-lru": "^5.1.1",
     "reddit": "^1.2.0",
-    "rollbar": "^2.19.3",
+    "rollbar": "^2.25.0",
     "send": "^0.17.1",
     "serve-favicon": "^2.5.0",
     "simple-get": "^4.0.0",
